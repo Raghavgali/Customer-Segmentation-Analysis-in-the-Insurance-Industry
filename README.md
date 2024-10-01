@@ -47,6 +47,7 @@ To evaluate the clustering performance, we used the Silhouette Score, and furthe
 ## Notebooks & Scripts
 
 The USML_mid_final.ipynb notebook contains the complete implementation of the project.
+
 	•EDA: Exploratory Data Analysis including handling missing values, outliers, and feature engineering.
 	•Clustering: Detailed implementation of different clustering algorithms, including K-Means and Hierarchical Clustering.
 	•Model Performance: Evaluation metrics for clustering solutions.
